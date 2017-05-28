@@ -45,6 +45,12 @@ The output will be the predictions for each image in the test data set in the fo
 
 ![Screenshot](./assets/result.png "Screenshot 1")
 
+## Check Performance metrics
+
+```javascript
+$ tensorboard --logdir .
+```
+
 ## Credits
 
 Training images are downloaded [here](http://cswww.essex.ac.uk/mv/allfaces/faces95.html).This repo designed and maintained by Dr Libor Spacek.
