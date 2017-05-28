@@ -38,11 +38,12 @@ python findGender.py
 
 The output will be the predictions for each image in the test data set in the folder ``test_input``.
 
-![Screenshot](./assets/output.png "Screenshot 1")
+<img src="https://github.com/manishankarbalu/genderClassification_CNN/assets/output.png"/>
+
+<br/>
 
 ## Results
-
-![Screenshot](./assets/result.png "Screenshot 1")
+<img src="https://github.com/manishankarbalu/genderClassification_CNN/assets/result.png"/>
 
 ##Credits
 
