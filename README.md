@@ -10,8 +10,9 @@ This is a generic setup and can be used to classify almost any kind of image. I 
 <br/>
 
 ## Requirements
-Markup : * Python
-         * Tensorflow
+
+Markup : 1. Python
+         2. Tensorflow
 <br/>
 
 ## Usage
@@ -44,6 +45,6 @@ The output will be the predictions for each image in the test data set in the fo
 
 ![Screenshot](./assets/result.png "Screenshot 1")
 
-##Credits
+## Credits
 
 Training images are downloaded [here](http://cswww.essex.ac.uk/mv/allfaces/faces95.html).This repo designed and maintained by Dr Libor Spacek.
