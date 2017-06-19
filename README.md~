@@ -5,6 +5,8 @@ Refrence:[Tensorflow](https://www.tensorflow.org/)[Inception](https://research.g
 
 Since Inception in a pre-trained model we try to Transfer Learning to classify the gender with new set of male and female image dataset. 
 
+This is a generic setup and can be used to classify almost any kind of image. I created a small demo that classifies two image data sets - my photos and my girlfriend's photos, and returns a prediction score denoting the possibility of it being my image or my girlfriend's image.
+
 <br/>
 
 ## Requirements
